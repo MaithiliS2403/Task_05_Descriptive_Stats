@@ -119,3 +119,26 @@ Biggest loss: 2–17 vs Boston College.
 
 Evaluation: ✅ Fully accurate
 
+🔹 Prompt 18:
+Q: As a coach, if I wanted to win two more games next season, should I focus more on offense or defense, and why?
+
+LLM Response (ChatGPT):  
+Given that Syracuse scored more total goals than their opponents (235 vs 221), but had fewer saves (162 vs 168), there may be more upside in improving defense. Increasing savings efficiency could turn close losses into wins. However, examining game-by-game trends — such as second-half scoring drop-offs — may also suggest a need for offensive consistency late in games."
+
+Evaluation: ✅ Balanced answer. LLM recognizes both sides: statistical advantage in offense, but highlights a defensive gap that may cost wins. Shows strategic reasoning.
+
+🔹 Prompt 19:
+Q: Same question asked to Claude.
+
+Claude Response: 
+"You should focus more on offense next season. While Syracuse outscored opponents overall, the team’s offensive production declined in second halves. Close games were lost due to inconsistent scoring late in matches. To flip two more games, key adjustments include improving shot volume, sustaining scoring pressure, and deepening offensive rotations."
+
+Evaluation: ✅ Very strategic and specific. Claude prioritizes second-half offense and identifies concrete areas for improvement.
+
+---
+
+## 🔍 Comparison Insight:
+- ChatGPT offered a balanced, data-based perspective (offense vs defense)
+- Claude leaned heavily into late-game offensive breakdowns
+- Both useful — Claude’s version is better for real coaching application
+
