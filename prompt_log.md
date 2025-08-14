@@ -119,7 +119,7 @@ Biggest loss: 2–17 vs Boston College.
 
 Evaluation: ✅ Fully accurate
 
-🔹 Prompt 18:
+🔹 Prompt 15:
 Q: As a coach, if I wanted to win two more games next season, should I focus more on offense or defense, and why?
 
 LLM Response (ChatGPT):  
@@ -127,7 +127,7 @@ Given that Syracuse scored more total goals than their opponents (235 vs 221), b
 
 Evaluation: ✅ Balanced answer. LLM recognizes both sides: statistical advantage in offense, but highlights a defensive gap that may cost wins. Shows strategic reasoning.
 
-🔹 Prompt 19:
+🔹 Prompt 16:
 Q: Same question asked to Claude.
 
 Claude Response: 
