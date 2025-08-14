@@ -42,3 +42,20 @@ This project explores how large language models (LLMs) like ChatGPT interpret an
 
 Submitted to: `jrstrome@syr.edu`  
 Progress reported via [Qualtrics OPT Form](https://syracuseuniversity.qualtrics.com/jfe/form/SV_cDgnzM695AMx8d8)
+
+---
+
+## 🔄 Research Expansion
+
+As part of extending Task 05, the following additional components were added:
+
+✅ LLM Comparison
+A structured comparison between ChatGPT and Claude was conducted using the same set of prompts. Their answers were evaluated for accuracy, depth, and reasoning style. Claude tended to offer more strategic insights, while ChatGPT was stronger with raw numeric analysis.
+
+- See: [`llm_comparison.md`](./llm_comparison.md)
+
+✅ Strategic Coaching Prompts
+New prompts were introduced, asking LLMs to think like a coach and make recommendations on how Syracuse could improve future performance. This tested the model’s ability to reason beyond data and simulate decision-making.
+
+- Example: “Should a coach focus on offense or defense to win two more games next season?”
+- See: Additional entries in [`prompt_log.md`](./prompt_log.md)
